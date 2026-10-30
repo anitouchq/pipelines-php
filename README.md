@@ -1,13 +1,5 @@
 # pipelines-php
 
-
-<img width="1542" height="379" alt="image" src="https://github.com/user-attachments/assets/05dd0042-5e51-4aa8-b1fc-9fda2bae891a" />
-# 🐘 pipelines-php
-
-Учебный проект: **CI-пайплайн на GitHub Actions** для PHP-приложения.
-
----
-
 ## 📖 О проекте
 
 Простое PHP-приложение (`getGreeting`), для которого настроен CI-пайплайн.
@@ -89,9 +81,6 @@ vendor/bin/phpunit tests/
 - **Composer** — зависимости
 - **PHPUnit** — тесты
 - **Docker** — multi-stage сборка
-- **GitHub Actions** — CI
-
----
 
 ## 📄 Лицензия
 
